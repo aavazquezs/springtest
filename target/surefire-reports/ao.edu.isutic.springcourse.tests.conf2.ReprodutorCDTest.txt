@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: ao.edu.isutic.springcourse.tests.conf2.ReprodutorCDTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.064 sec - in ao.edu.isutic.springcourse.tests.conf2.ReprodutorCDTest
